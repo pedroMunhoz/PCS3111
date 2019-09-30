@@ -24,7 +24,7 @@ public:
     int getQuantidade();
     Pessoa** getPessoas();
 
-    bool adicionar(Pessoa* p);
+    virtual bool adicionar(Pessoa* p);
     int getDuracao();
     void imprimir();
   };
