@@ -1,3 +1,5 @@
 # PCS3111
 
-NÃO COPIA O CÓDIGO DIRETO, SÓ SE BASEIA NELE
+# NÃO COPIA O CÓDIGO grr
+
+Exercícios das aulas de Laboratório de programação orientada a objetos
