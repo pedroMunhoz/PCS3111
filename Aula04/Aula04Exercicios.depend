@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1566824815 source:c:\users\11257053\documents\aula04\atividade.cpp
+	<iostream>
+	<cmath>
+	"Atividade.h"
+
+1566824570 source:c:\users\11257053\documents\aula04\main.cpp
+	"Pessoa.h"
+	"Atividade.h"
+
+1566821941 c:\users\11257053\documents\aula04\pessoa.h
+	<string>
+
+1566821953 source:c:\users\11257053\documents\aula04\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
+1566822570 c:\users\11257053\documents\aula04\atividade.h
+	<string>
+	"Pessoa.h"
+
