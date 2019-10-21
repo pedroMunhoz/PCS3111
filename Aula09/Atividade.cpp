@@ -25,15 +25,16 @@ void Atividade::adicionar(Pessoa* p) {
     if (p == NULL) {
         throw new invalid_argument("Pessoa eh NULL");
     }
-    if (quantidade < maximoPessoas) {
-        pessoas[quantidade++] = p;
-    } else {
-        throw new overflow_error ("vetor pessoas cheio");
-    }
     for (int i = 0; i < this->quantidade; i++) {
         if (p == this->pessoas[i]) {
             throw new ErroRecursosRepetidos("Pessoa ja adicionada");
         }
+    }
+
+    if (quantidade < maximoPessoas) {
+        pessoas[quantidade++] = p;
+    } else {
+        throw new overflow_error ("vetor pessoas cheio");
     }
 }
 
