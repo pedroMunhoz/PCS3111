@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1570155189 source:c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\competicao.cpp
+	"Competicao.h"
+	<iostream>
+
+1570032616 c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\competicao.h
+	"Equipe.h"
+	"Tabela.h"
+	"Modalidade.h"
+	<string>
+
+1569806578 c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\equipe.h
+	<string>
+
+1570017898 c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\tabela.h
+	"Equipe.h"
+	<string>
+
+1570146640 c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\modalidade.h
+	"Equipe.h"
+	<string>
+
+1569806744 source:c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\equipe.cpp
+	"Equipe.h"
+	<iostream>
+
+1570148598 source:c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\main.cpp
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	"Competicao.h"
+	<string>
+	<iostream>
+
+1570155433 source:c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\modalidade.cpp
+	"Modalidade.h"
+	<iostream>
+
+1570155228 source:c:\users\pedro\desktop\poli - usp\2º semestre\pcs3111\ep1\tabela.cpp
+	"Tabela.h"
+	<iostream>
+

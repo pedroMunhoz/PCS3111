@@ -1,0 +1,1 @@
+g++ -Wall -Wno-unused-result -g *.cpp -o debug.exe

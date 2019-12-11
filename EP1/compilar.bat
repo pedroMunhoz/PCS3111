@@ -1,0 +1,1 @@
+g++ -Wall -Wno-unused-result -O2 *.cpp -o ep1.exe
